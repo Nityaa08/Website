@@ -1,2 +1,2 @@
 # Website
-A website for Dogs.
+A  tinder website created for Dogs.
